@@ -3,7 +3,7 @@ Moringa AI Capstone Project: Beginner's Toolkit with GenAI
 **Author:** Mitchelle Hope  
 **Technology:** Python with REST API Integration (ExchangeRate-API)  
 **Project Type:** Command-Line Currency Converter  
-**Date:** December 2024
+**Date:** December 2025
 
 ---
 
